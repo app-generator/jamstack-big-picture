@@ -1,7 +1,14 @@
-## [JamStack App Big Picture](https://appseed.us/apps/static/panini/jamstack-big-picture)
-Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-big-picture.appseed.us/) by AppSeed
+# HTML5 Up BigPicture coded in JAMstack
+Open-Source App coded on top of **HTML5 Up Big Picture design** in **JAMstack** architecture.
 
-![JamStack Big Picture](https://github.com/app-generator/jamstack-big-picture/blob/master/screenshots/jamstack-big-picture.jpg)
+![HTML5 Up Big Picture design coded in JAMstack](https://raw.githubusercontent.com/app-generator/static/master/html5up-big-picture/html5up-big-picture-coded-in-jamstack.jpg)
+
+## App Links
+---
+ - [JAMstack Big Picture](https://appseed.us/apps/jamstack/html5up-big-picture) - product page
+ - Live [demo](https://jamstack-big-picture.appseed.us)
+ - [Documentation](https://docs.appseed.us/apps/html5up/html5up-big-picture-coded-in-jamstack/)
+ - [HTML5 Up Fractal](https://html5up.net/big-picture) - the original product
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/jamstack-big-picture.git`
@@ -16,7 +23,6 @@ Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-big-picture.appse
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
 - A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
-- A curated list with [JAMstack Apps](https://github.com/jamstack-apps/jamstack) published on Github
 
 ---
-Made with ♥ by [Simpllo.com](https://simpllo.com?ref=github)
+Made with ♥ by [AppSeed](https://appseed.us?ref=github)
