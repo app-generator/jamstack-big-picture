@@ -8,7 +8,7 @@ Open-Source App coded on top of **HTML5 Up Big Picture design** in **JAMstack** 
  - [JAMstack Big Picture](https://appseed.us/apps/jamstack/html5up-big-picture) - product page
  - Live [demo](https://jamstack-big-picture.appseed.us)
  - [Documentation](https://docs.appseed.us/apps/html5up/html5up-big-picture-coded-in-jamstack/)
- - [HTML5 Up Fractal](https://html5up.net/big-picture) - the original product
+ - [HTML5 Up Big Picture](https://html5up.net/big-picture) - the original product
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/jamstack-big-picture.git`
