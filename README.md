@@ -19,6 +19,12 @@ Open-Source app with **HTML5Up Big Picture** design coded in **JAMstack** patter
 
 <br />
 
+## Support
+
+For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
+
+<br />
+
 ## Resources
 
  - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
