@@ -4,7 +4,7 @@ Open-Source app with **HTML5Up Big Picture** design coded in **JAMstack** patter
 
 <br />
 
-![JAMstack BigPicture - App banner.](https://github.com/app-generator/static/blob/master/products/html5up-bigpicture.jpg?raw=true)
+![JAMstack BigPicture - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-html5up-bigpicture-intro.gif?raw=true)
 
 <br />
 
